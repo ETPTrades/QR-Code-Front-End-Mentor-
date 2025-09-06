@@ -1,0 +1,35 @@
+:roots {
+    
+}
+
+body {
+    background-color: hsl(212, 45%, 89%);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.container {
+    /*border: 3px dashed;*/
+    border-radius: 20px;
+    margin: 50px auto;
+    width: 450px;
+    height: 700px;
+    background-color: hsl(0, 0%, 100%);
+    padding: 15px 15px;
+}
+img {
+    width: 100%;
+    height: 65%;
+    border-radius: 20px;
+}
+p {
+    text-align: center;
+}
+.first-sentence {
+    font-weight: 800;
+    font-size: 2rem;
+    padding: 0 50px;
+    margin-top: 10px;
+}
+.second-sentence {
+    font-size: 1.2rem;
+    padding: 0 40px;
+}
